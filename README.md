@@ -16,8 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud Monitoring         | <a href="https://github.com/cocomixxl/Cloud-Monitoring">Cloud Lab</a>|
-| SIEM Fowarder | <a href="https://github.com/cocomixxl/SIEM-forwarder"> Cloud Lab</a>|
+| Cloud Monitoring         | <a href="https://github.com/cocomixxl/Cloud-Monitoring">Lab</a>|
+| SIEM Fowarder | <a href="https://github.com/cocomixxl/SIEM-forwarder">Lab</a>|
 <!--| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
