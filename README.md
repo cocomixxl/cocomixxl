@@ -1,5 +1,7 @@
 # Hello, I'm Franco
 <a href="www.linkedin.com/in/franco-dimitri-cajuste-a3a6502a4m"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://francodc.gitbook.io/fdc-library"><img src="https://img.shields.io/badge/-GitBook-4A90E2?&style=for-the-badge&logo=GitBook&logoColor=white" /></a>
+
 
 
 I am a part-time cybersecurity student with a profound interest in technology and a dedication to solving complex problems.
